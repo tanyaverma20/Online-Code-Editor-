@@ -26,17 +26,3 @@ This editor is built using pure HTML, CSS, and JavaScript without any external l
 - No frameworks or libraries
 
 ---
-
-## 📸 Screenshots
-
-> *(Add screenshots here later)*  
-> You can show a preview of the editor layout and a code snippet running live.
-
----
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/online-code-editor.git
-   cd online-code-editor
